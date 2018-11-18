@@ -46,3 +46,7 @@ Ratio datasets
 industry returns: output value: -> starting with few features 
 supervised learning: 
 if they are good classification: adding more features into it 
+
+*Datasets*:
+
+'ee6d2f60cdafb550.csv' -- Fama-French 49 Industries, 74 Variables 76 Features, YYMMDDs10 Date 
